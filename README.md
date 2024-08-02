@@ -9,4 +9,3 @@ Follow me:
 - [Telegram Channel](https://t.me/WingramOrg)
 - [Group Chat](https://t.me/WingramOrgChat)
 - [Contact me](https://t.me/WingramFather)
-- [wingram.org](https://wingram.org)
