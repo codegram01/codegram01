@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hello world!
 
-<!--
-**codegram01/codegram01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computers are amazing, and I'd love for you to join me on this journey of exploration. While others might show you tips and tricks, I want to take you deeper and demonstrate the entire process behind building something significant.
 
-Here are some ideas to get you started:
+This is why I've launched wingram.org, an open-source platform with endless possibilities. Throughout the development process, I'll be recording videos and uploading them [here](https://www.youtube.com/@WingramOrg). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By following along, you'll gain valuable insights into how a startup project can evolve from a simple idea to a global phenomenon.
+
+Together, with hard work and dedication, I believe we can achieve great success. Let's embark on this exciting adventure!
+
+Follow me:
+- [Youtube Channel](https://www.youtube.com/@WingramOrg)
+- [wingram.org](https://wingram.org)
+- [Telegram Channel](https://t.me/WingramOrg)
+- [Group Chat](https://t.me/WingramOrgChat)
+- [Contact me](https://t.me/WingramFather)
