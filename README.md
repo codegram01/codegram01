@@ -8,4 +8,3 @@ Follow me:
 - [Youtube Channel](https://www.youtube.com/@WingramOrg)
 - [Telegram Channel](https://t.me/WingramOrg)
 - [Group Chat](https://t.me/WingramOrgChat)
-- [Contact me](https://t.me/WingramFather)
