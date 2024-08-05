@@ -6,5 +6,5 @@ Together, with hard work and dedication, I believe we can achieve great success.
 
 Follow me:
 - [Youtube Channel](https://www.youtube.com/@WingramOrg)
-- [Discussions](https://github.com/codegram01/codegram01/discussions). Talk anything here
 - [Telegram Channel](https://t.me/WingramOrg)
+- [Discussions - Wingram community](https://github.com/codegram01/codegram01/discussions). Talk anything here 🥳
